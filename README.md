@@ -16,12 +16,9 @@ ___
 
 ## Technologies that were used
 
-#### Database technologies:
+* Apache Tomcat
 * MySQL
 * JDBC
-
-#### Web technologies:
-* Apache Tomcat
 * Servlet
 * JSP
 * JSTL
